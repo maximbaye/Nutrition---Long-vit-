@@ -1,0 +1,67 @@
+🥗 Impact de l'Alimentation sur la Santé et le Bien-être  
+
+Étude de cas sur la nutrition et son influence sur la santé à partir d'un dataset anonymisé
+
+## 📌 Contexte du Projet  
+L’alimentation joue un rôle clé dans la santé et la longévité. L’objectif de cette étude est d’analyser les habitudes alimentaires des individus afin d’identifier ,
+des tendances et d’évaluer leur impact sur la santé.  
+
+Nous utilisons un jeu de données contenant des enregistrements de repas par utilisateur, sans distinction de sexe ou d’âge.
+Chaque repas est classifié en différentes catégories : petit-déjeuner, déjeuner, collation, dîner.  
+
+🎯 Objectifs :
+
+ Identifier les apports moyens en macronutriments(glucides, protéines, lipides) par type de repas.  
+Détecter d’éventuelles incohérences dans la saisie des données.  
+Comparer les apports nutritionnels observés aux recommandations officielles.  
+Proposer des pistes d'amélioration pour une alimentation équilibrée.  
+
+---
+
+🔍 Analyse des Données
+🛠 1. Préparation et Nettoyage des Données
+
+📌  Traduction des colonnes et valeurs en français** pour une meilleure compréhension.  
+📌 Standardisation des unités: Calories (kcal), Protéines (g), Glucides (g), Lipides (g), Fibres (g), Sodium (mg), etc.  
+📌 Vérification des incohérences :  
+    Détection de valeurs aberrantes (exemple : un repas avec 50g de sucre).  
+   Un utilisateur avec des valeurs nutritionnelles identiques pour un dîner  et un cookie.  
+
+📊 2. Analyse des Tendances avec Tableau  
+Nous avons exploré les habitudes alimentaires sous plusieurs angles :  
+- Comparaison des macronutriments par type de repas.  
+- Visualisation des tendances sur plusieurs jours.  
+- Évaluation des apports journaliers en fonction des recommandations nutritionnelles.  
+
+📈 3. Résultats Clés 
+  Les apports en sucre sont excessifs** : La consommation moyenne par repas est de **50g**, soit au-delà des recommandations.  
+ Déséquilibre des macronutrimentS : Trop de glucides le matin, trop peu de protéines dans la journée.  
+
+
+ 📌 Fichiers Disponibles 
+📄 [📜 Rapport PDF – Analyse complète](lien_GitHub)  
+📈 [📊 Tableau de Bord – Tableau Public](https://public.tableau.com/app/profile/ndeye.tandiang/viz/AnalysedeLimpactdeLalimentationSurLaSante/Tableaudebord1)  
+🖼️ [📷 Visualisations (Images)](lien_GitHub)  
+📑 [📽 Présentation PowerPoint](lien_GitHub)  
+
+---
+
+ 🛠 Outils Utilisés 
+📊 Excel → Nettoyage des données et premières analyses  
+📈 Tableau → Création des visualisations et dashboard  
+📑 Power BI** → Exploration avancée (à venir)  
+📊 SQL & R** → Traitement des données et statistiques (en cours)  
+🌍 GitHub** → Stockage et partage du projet  
+
+---
+
+ 🚀 Recommandations et Prochaines Étapes 
+🔹 Améliorer la qualité des données : Vérifier et éliminer les doublons et incohérences.  
+🔹 Intégrer des données démographiques** (âge, sexe) pour une analyse plus fine.  
+🔹 Affiner les analyses en R et SQL** pour identifier des corrélations plus poussées.  
+🔹 Proposer un modèle de prédiction** sur l’impact des habitudes alimentaires sur la santé.  
+
+📌 Dernière mise à jour : `20 mars 2025`  
+
+👩‍💻 Auteur : Magatte Mbaye  
+📩 Contact : [Email: maguet11@hotmail.com | LinkedIn | Portfolio](lien_contact)  
