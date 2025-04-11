@@ -1,0 +1,30 @@
+
+---
+
+## 📷 Aperçu
+
+### Graphique R : Calories moyennes par type de repas
+![graphique_r](visualisations/calories_par_repas.png)
+
+---
+
+## 🔍 Résultats principaux
+
+- 🍽️ Les repas du **midi** et du **dîner** contiennent plus de calories en moyenne.
+- 💡 Les **snacks** sont les plus légers mais souvent sucrés.
+- 📈 Les glucides sont le macronutriment dominant dans tous les repas.
+
+---
+
+## 📄 Lien vers les fichiers
+
+- 📥 [Télécharger le rapport PDF](docs/analyse_nutrition.pdf)
+- 🌐 [Voir l’analyse en HTML](docs/analyse_nutrition.html)
+
+---
+
+## 🔗 Me contacter
+
+👩‍💻 Maxi Mbaye  
+📫 [Votre adresse email pro]  
+🔗 [Mon LinkedIn](https://www.linkedin.com/) *(à mettre à jour)*  
