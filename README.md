@@ -1,3 +1,5 @@
+![Bannière du projet](./banner_nutrition.png)
+
 # Nutrition---Long-vit-
 # 🥗 Analyse Nutritionnelle - Impact de l’alimentation sur la santé
 
